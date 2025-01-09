@@ -64,4 +64,4 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disable', true);
 }
 
-console.log('teste, testando')
+console.log('teste, testando, teste')
